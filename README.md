@@ -2,8 +2,8 @@
 
 ## Researcher | Machine Learning Specialist | Trustworthy AI for Healthcare
 
-[![Website](https://img.shields.io/badge/Website-Portfolio-green)](https://farjana-yeamin.github.io)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/farjana-yeamin/)
+[![Website](https://img.shields.io/badge/Website-Portfolio-green)](https://farjana-yesmin.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/farjana-yesmin/)
 [![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:farjanayesmin76@gmail.com)
 
 ---
