@@ -5,40 +5,58 @@
 [![Website](https://img.shields.io/badge/Website-Portfolio-green)](https://farjana-yesmin.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/farjana-yesmin/)
 [![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:farjanayesmin76@gmail.com)
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-Profile-lightgrey)](https://scholar.google.com/citations?user=iyrysqgAAAAJ&hl=en)
 
 ---
 
 ### About Me
 
-I'm a researcher with extensive experience in Bioinformatics, Data Science, and AI. My passion lies in building machine learning models that are not only accurate but also fair, interpretable, and privacy-preserving, particularly for healthcare applications like human activity recognition, disease prediction, and medical imaging.
+I'm a prolific researcher specializing in **Trustworthy AI**, with extensive experience in developing machine learning systems that are accurate, fair, interpretable, and privacy-preserving for healthcare applications. My work spans federated learning, fairness in AI, explainable ML, and multimodal deep learning for medical applications.
 
-- 🔬 **Current Research:** Fairness-aware representation learning, multimodal deep learning, and federated learning.
-- 📝 **I'm currently writing** several papers under review for top-tier conferences and journals.
-- 🤝 **I'm looking to collaborate on** projects involving trustworthy AI, healthcare ML, and biosignal analysis.
-- 💬 **Ask me about:** Machine Learning, Deep Learning, AI Fairness, Federated Learning, Healthcare AI.
-- ⚡ **Fun fact:** I'm a runner and have completed a 5k!
+- 🔬 **Current Focus:** Privacy-preserving federated learning, intersectional fairness, interpretable AI, and multimodal healthcare analytics
+- 📚 **Research Output:** several papers currently under review at top-tier conferences (IEEE SaTML, NLDL, ECIR) and journals (Springer, Nature)
+- 🤝 **Seeking Collaboration:** Trustworthy AI projects, healthcare ML, federated learning systems, and interdisciplinary research
+- 💬 **Ask me about:** Federated Learning, AI Fairness, Explainable AI, Healthcare ML, Transformer Architectures
+- ⚡ **Beyond Research:** Avid runner and 5k finisher!
 
 ---
 
-### Featured Projects
+### Research Highlights
 
-| Project | Description | Tech Stack | Status |
-|---------|-------------|------------|--------|
-| **Transformer Fall Detection** | Multi-sensor fusion for health monitoring in Parkinson's. | PyTorch, Transformers | Paper in Revision |
-| **MedHE: Privacy-Preserving FL** | Communication-efficient federated learning for healthcare. | PyTorch, FL | Under Review (IEEE SaTML) |
-| **Intersectional Fairness** | Bias-weighted augmentation for fair image classification. | TensorFlow | Under Review (Springer) |
+| Area | Key Contributions | Status |
+|------|-------------------|--------|
+| **Privacy-Preserving AI** | MedHE: Communication-efficient FL with adaptive sparsification | Under Review (IEEE SaTML 2026) |
+| **AI Fairness** | Intersectional fairness framework with bias-weighted augmentation | Under Review (Springer) |
+| **Healthcare ML** | Transformer-based fall detection for Parkinson's patients | Revised & Resubmitted (Scientific Reports) |
+| **Explainable AI** | Rule-augmented neural networks for high-stakes domains | Under Review (NLDL 2026) |
+| **Multimodal Learning** | Joint denoising & 3D reconstruction from medical images | Under Review (NLDL 2026) |
 
 ### Selected Publications
 
-- **Yesmin, F.**, et al. "Cross-Domain Evaluation for Multi-Task Learning in NLP." _AI eJournal_ (2025). [Link](https://papers.ssrn.com/abstract=5018566)
-- **Yesmin, F.**, et al. "AI Chatbots for Dengue Symptom Triage in Bangladesh: A Decision Tree Classifier Approach" _DASGRI 2026, Springer LNNS (Accepted)_. [Link]()
+**📅 2026 (Accepted)**
+- **Yesmin, F.** "AI Chatbots for Dengue Symptom Triage in Bangladesh: A Decision Tree Classifier Approach" - *DASGRI 2026, Springer LNNS*
+- **Yesmin, F.** "Optimized Hybrid Machine Learning Framework for Real-Time Air Quality Prediction in IoT-Enabled Smart Cities" - *DASGRI 2026, Springer LNNS*
+- **Yesmin, F., Shirmin, N.** "Evolving Health Indicators in Bangladesh: A Comparative Analysis of 2019 and 2023 Health Bulletins Using Data Science Tools" - *DASGRI 2026, Springer LNNS*
 
-### Technical Skills
+**📅 2025 (Published)**
+- **Yesmin, F.** "Cross-Domain Evaluation for Multi-Task Learning in NLP: A Unified Framework for Generalization and Robustness" - *Artificial Intelligence eJournal*  
+  [📄](https://papers.ssrn.com/abstract=5018566)
 
+**🔄 In Peer Review**
+- 8 additional papers at IEEE SaTML, NLDL, ECIR, HealthWear, and Springer journals
+- [View full publication list on my website](https://farjana-yesmin.github.io)
+
+### Technical Expertise
+
+- **Core ML:** Deep Learning, Federated Learning, Fairness & Interpretability, Multimodal Learning
+- **Frameworks:** PyTorch, TensorFlow, Scikit-learn, Hugging Face
 - **Languages:** Python, R, SQL, Java, C++
-- **ML/DL Frameworks:** PyTorch, TensorFlow, Scikit-learn
-- **Tools:** Git, Docker, Kubernetes, Tableau, MATLAB
+- **Tools:** Git, Docker, Kubernetes, MLflow, Weights & Biases
 
 ---
 
-![Farjana's GitHub stats](https://github-readme-stats.vercel.app/api?username=Farjana-Yesmin&show_icons=true&theme=radical)
+### GitHub Metrics
+
+![Farjana's GitHub stats](https://github-readme-stats.vercel.app/api?username=Farjana-Yesmin&show_icons=true&theme=radical&hide_title=true)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Farjana-Yesmin&layout=compact&theme=radical)](https://github.com/Farjana-Yesmin)
