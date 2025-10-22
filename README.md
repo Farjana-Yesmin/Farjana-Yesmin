@@ -37,7 +37,7 @@ I'm a prolific researcher specializing in **Trustworthy AI**, with extensive exp
 - **Yesmin, F.** "AI Chatbots for Dengue Symptom Triage in Bangladesh: A Decision Tree Classifier Approach" - *DASGRI 2026, Springer LNNS*
 - **Yesmin, F.** "Optimized Hybrid Machine Learning Framework for Real-Time Air Quality Prediction in IoT-Enabled Smart Cities" - *DASGRI 2026, Springer LNNS*
 - **Yesmin, F., Shirmin, N.** "Evolving Health Indicators in Bangladesh: A Comparative Analysis of 2019 and 2023 Health Bulletins Using Data Science Tools" - *DASGRI 2026, Springer LNNS*
-- - **Yesmin, F., Shirmin, N.** "Fairness-Aware Representation Learning for ECGBased Disease Prediction in Wearable Systems" - *EAI HealthWear 2025*
+- **Yesmin, F., Shirmin, N.** "Fairness-Aware Representation Learning for ECGBased Disease Prediction in Wearable Systems" - *EAI HealthWear 2025*
 
 
 **📅 2025 (Published)**
