@@ -26,7 +26,7 @@ I'm a prolific researcher specializing in **Trustworthy AI**, with extensive exp
 | Area | Key Contributions | Status |
 |------|-------------------|--------|
 | **Privacy-Preserving AI** | MedHE: Communication-efficient FL with adaptive sparsification | Under Review (IEEE SaTML 2026) |
-| **AI Fairness** | Intersectional fairness framework with bias-weighted augmentation | Under Review (Springer) |
+| **AI Fairness** | Data-Driven Analysis of Intersectional Bias in Image Classification: A Framework with Bias-Weighted Augmentation | Under Review (IDA 2026) |
 | **Healthcare ML** | Transformer-based fall detection for Parkinson's patients | Revised & Resubmitted (Scientific Reports) |
 | **Explainable AI** | Rule-augmented neural networks for high-stakes domains | Under Review (NLDL 2026) |
 | **Multimodal Learning** | Joint denoising & 3D reconstruction from medical images | Under Review (NLDL 2026) |
@@ -37,6 +37,8 @@ I'm a prolific researcher specializing in **Trustworthy AI**, with extensive exp
 - **Yesmin, F.** "AI Chatbots for Dengue Symptom Triage in Bangladesh: A Decision Tree Classifier Approach" - *DASGRI 2026, Springer LNNS*
 - **Yesmin, F.** "Optimized Hybrid Machine Learning Framework for Real-Time Air Quality Prediction in IoT-Enabled Smart Cities" - *DASGRI 2026, Springer LNNS*
 - **Yesmin, F., Shirmin, N.** "Evolving Health Indicators in Bangladesh: A Comparative Analysis of 2019 and 2023 Health Bulletins Using Data Science Tools" - *DASGRI 2026, Springer LNNS*
+- - **Yesmin, F., Shirmin, N.** "Fairness-Aware Representation Learning for ECGBased Disease Prediction in Wearable Systems" - *EAI HealthWear 2025*
+
 
 **📅 2025 (Published)**
 - **Yesmin, F.** "Cross-Domain Evaluation for Multi-Task Learning in NLP: A Unified Framework for Generalization and Robustness" - *Artificial Intelligence eJournal*  
