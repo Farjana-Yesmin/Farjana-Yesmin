@@ -11,12 +11,12 @@
 
 ### 👋 About Me
 
-I'm a dedicated researcher specializing in **Trustworthy AI**, with extensive experience developing machine learning systems that are accurate, fair, interpretable, and privacy-preserving for healthcare applications. My work bridges federated learning, fairness in AI, explainable ML, and multimodal deep learning for medical applications.
+I'm a dedicated researcher and data scientist specializing in **Trustworthy AI**, with extensive experience developing machine learning systems that are accurate, fair, interpretable, and privacy-preserving for healthcare applications. My work bridges federated learning, fairness in AI, explainable ML, and multimodal deep learning for medical applications.
 
-- 🔬 **Current Focus:** Privacy-preserving federated learning, intersectional fairness, interpretable AI, and multimodal healthcare analytics
-- 📚 **Research Output:** 15+ papers (published & under review) at top-tier venues including IEEE SaTML, NLDL, ECIR, Springer, and Nature journals
-- 🤝 **Open to:** Research collaborations in Trustworthy AI, healthcare ML, and interdisciplinary projects
-- 💬 **Ask me about:** Federated Learning, AI Fairness, Explainable AI, Healthcare ML, Transformers
+- 🔬 **Current Focus:** Privacy-preserving federated learning, intersectional fairness, interpretable AI, neuro-symbolic approaches, and multimodal healthcare analytics
+- 📚 **Research Output:** 10+ papers (published & under review) at venues including Springer LNNS, IEEE workshops, ECIR, and Nature Portfolio journals
+- 🤝 **Open to:** Research collaborations in Trustworthy AI, healthcare ML, and interdisciplinary projects; open to relocation and remote work
+- 💬 **Ask me about:** Federated Learning, AI Fairness, Explainable AI, Healthcare ML, Transformers, Neuro-Symbolic AI
 - ⚡ **Beyond Research:** Avid runner, pianist, and travel writer
 
 ---
@@ -25,33 +25,36 @@ I'm a dedicated researcher specializing in **Trustworthy AI**, with extensive ex
 
 | Area | Key Contributions | Status |
 |------|-------------------|--------|
-| **Privacy-Preserving AI** | MedHE: Communication-efficient FL with adaptive sparsification | Under Review (IEEE SaTML 2026) |
-| **AI Fairness** | Data-Driven Analysis of Intersectional Bias in Image Classification | Under Review (IDA 2026) |
-| **Healthcare ML** | Enhanced fall detection in Parkinson's using multi-sensor fusion | Revised & Resubmitted (Scientific Reports) |
-| **Explainable AI** | Rule-augmented neural networks for high-stakes domains | Under Review (NLDL 2026) |
-| **Multimodal Learning** | Joint denoising & 3D reconstruction from medical images | Under Review (NLDL 2026) |
+| **Privacy-Preserving AI** | MedHE: Communication-efficient FL with adaptive gradient sparsification for healthcare | Under Review (IEEE PeRConAI'26) |
+| **AI Fairness** | Fairness-aware representation learning for ECG-based disease prediction | To appear (EAI HealthWear 2025) |
+| **Healthcare ML** | Enhanced fall detection in Parkinson's using multi-sensor fusion and transformers | In Revision (Scientific Reports) |
+| **Explainable AI** | Rule-augmented neural networks for trustworthy decision-making | Under Review (ESANN 2026) |
+| **Multimodal Learning** | Joint denoising & 3D point cloud reconstruction from medical images | Under Review (IDA 2026) |
+| **NLP & AI** | Beyond the Black Box: Interpretable retrieval-augmented generation framework | Under Review (ECIR 2026) |
 
 ### 📚 Publications
 
 **View my complete publication list with links to preprints and papers:**  
 [🔗 Full Publications on My Website](https://farjana-yesmin.github.io#publications)
 
-*Featuring work in Springer LNNS, EAI HealthWear, Artificial Intelligence eJournal, and multiple top-tier conferences*
+*Featuring work in Springer Lecture Notes in Networks and Systems, EAI International Conference on Wearables in Healthcare, Artificial Intelligence eJournal, and multiple top-tier conferences under review*
 
 ### 🛠️ Technical Expertise
 
-**🤖 Machine Learning**
+**🤖 Machine Learning & AI**
 - Deep Learning • Federated Learning • Fairness & Interpretability • Multimodal Learning
-- Transformers • Representation Learning • Privacy-Preserving AI
+- Transformers • Representation Learning • Privacy-Preserving AI • Neuro-Symbolic AI
+- Network Theory • Information Theory • Rule-Augmented Neural Networks
 
-**💻 Technologies**
-- **Frameworks:** PyTorch, TensorFlow, Scikit-learn, Hugging Face
-- **Languages:** Python, R, SQL, Java, C++
-- **Tools:** Git, Docker, Kubernetes, MLflow, Weights & Biases
+**💻 Technologies & Tools**
+- **ML Frameworks:** PyTorch, TensorFlow, Scikit-learn, Splunk
+- **Programming:** Python, R, Java, C++, MySQL
+- **Data Visualization:** Tableau, MATLAB
+- **DevOps & MLOps:** Git, GitHub, Docker, Kubernetes
 
-**🎯 Applications**
+**🎯 Application Domains**
 - Healthcare Analytics • Bioinformatics • Wearable Systems • Medical Imaging
-- Natural Language Processing • Time Series Analysis • IoT Systems
+- Natural Language Processing • Time Series Analysis • IoT Systems • Biosignal Processing
 
 ---
 
@@ -72,4 +75,4 @@ I'm always open to discussing research collaborations, project ideas, or opportu
 
 ---
 
-*Last updated: December 2024*
+*Last updated: August 2025*
