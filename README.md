@@ -29,8 +29,8 @@ I'm a dedicated researcher and data scientist specializing in **Trustworthy AI**
 | **AI Fairness** | Fairness-aware representation learning for ECG-based disease prediction | To appear (EAI HealthWear 2025) |
 | **Healthcare ML** | Enhanced fall detection in Parkinson's using multi-sensor fusion and transformers | In Revision (Scientific Reports) |
 | **Explainable AI** | Rule-augmented neural networks for trustworthy decision-making | Under Review (ESANN 2026) |
-| **Multimodal Learning** | Joint denoising & 3D point cloud reconstruction from medical images | Under Review (IDA 2026) |
-| **NLP & AI** | Beyond the Black Box: Interpretable retrieval-augmented generation framework | Under Review (ECIR 2026) |
+| **Multimodal Learning** | Joint denoising & 3D point cloud reconstruction from medical images | Under Review (MICCAI 2026) |
+| **NLP & AI** | Beyond the Black Box: Interpretable retrieval-augmented generation framework | Under Review (XAI World Conference 2026) |
 
 ### 📚 Publications
 
