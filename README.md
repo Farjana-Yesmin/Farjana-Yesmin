@@ -14,7 +14,7 @@
 I'm a dedicated researcher and data scientist specializing in **Trustworthy AI**, with extensive experience developing machine learning systems that are accurate, fair, interpretable, and privacy-preserving for healthcare applications. My work bridges federated learning, fairness in AI, explainable ML, and multimodal deep learning for medical applications.
 
 - 🔬 **Current Focus:** Privacy-preserving federated learning, intersectional fairness, interpretable AI, neuro-symbolic approaches, and multimodal healthcare analytics
-- 📚 **Research Output:** 10+ papers (published & under review) at venues including Springer LNNS, IEEE workshops, ECIR, and Nature Portfolio journals
+- 📚 **Research Output:** 10+ papers (published & under review) at venues including Springer LNNS, IEEE workshops, ESANN, and Nature Portfolio journals
 - 🤝 **Open to:** Research collaborations in Trustworthy AI, healthcare ML, and interdisciplinary projects; open to relocation and remote work
 - 💬 **Ask me about:** Federated Learning, AI Fairness, Explainable AI, Healthcare ML, Transformers, Neuro-Symbolic AI
 - ⚡ **Beyond Research:** Avid runner, pianist, and travel writer
