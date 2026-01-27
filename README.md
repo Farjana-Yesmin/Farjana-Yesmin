@@ -6,7 +6,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/farjana-yesmin/)
 [![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:farjanayesmin76@gmail.com)
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-Profile-lightgrey)](https://scholar.google.com/citations?user=AKL9avYAAAAJ&hl=en)
-[![GitHub](https://img.shields.io/badge/GitHub-Repositories-black)]([https://github.com/Farjana-Yesmin](https://github.com/Farjana-Yesmin?tab=repositories))
+[![GitHub](https://img.shields.io/badge/GitHub-Repositories-black)](https://github.com/Farjana-Yesmin?tab=repositories)
 
 ---
 
