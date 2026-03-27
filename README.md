@@ -84,7 +84,7 @@ I'm a dedicated researcher and data scientist specializing in **Trustworthy AI**
 - DravidianLangTech 2026 & LTEDI 2026 at ACL 2026 (62nd Annual Meeting of the Association for Computational Linguistics)
 
 **Conference & Workshop Reviewer:**
-- Reviewer, 27th ACM International Conference on Multimodal Interaction (ICMI 2026), Canberra, Australia
+- Reviewer, 28th ACM International Conference on Multimodal Interaction (ICMI 2026), Napoli, Italy
 - Reviewer, IndabaX Nigeria 2026 Conference (Papers to be published in PMLR Volume 319)
 - Reviewer, International Conference on Innovations in Computing, Communication, and Sustainable Technologies (ICICST 2026)
 - PeerJ Computer Science (2026)
