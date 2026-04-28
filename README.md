@@ -15,7 +15,7 @@
 I'm a dedicated researcher and data scientist specializing in **Trustworthy AI**, with extensive experience developing machine learning systems that are accurate, fair, interpretable, and privacy-preserving for healthcare applications. My work bridges federated learning, fairness in AI, explainable ML, and multimodal deep learning for medical applications.
 
 - 🔬 **Current Focus:** Privacy-preserving federated learning, intersectional fairness, interpretable AI, neuro-symbolic approaches, and multimodal healthcare analytics
-- 📚 **Research Output:** Papers published/accepted at Springer LNNS, IEEE conferences, EAI proceedings, and under review at top venues (ECAF, ICMI, CIBB, ICML workshops)
+- 📚 **Research Output:** Papers published/accepted at Springer LNNS, IEEE conferences, EAI proceedings, a book chapter with Springer Nature, and under review at top venues (ECAF, ICMI, CIBB, ICML workshops)
 - 🎖️ **Certifications:** ACM Certified Reviewer, Elsevier Certified Peer Reviewer, Nature Masterclasses: Focus on Peer Review
 - 🤝 **Open to:** Research collaborations in Trustworthy AI, healthcare ML, and interdisciplinary projects; open to relocation and remote work
 - 💬 **Ask me about:** Federated Learning, AI Fairness, Explainable AI, Healthcare ML, Transformers, Neuro-Symbolic AI, Multimodal Learning
@@ -28,6 +28,7 @@ I'm a dedicated researcher and data scientist specializing in **Trustworthy AI**
 
 | Area | Key Contributions | Status |
 |------|-------------------|--------|
+| **Book Chapter** | Clinician-in-the-Loop Agentic Systems for Maternal Healthcare in Low-Resource Settings | **Accepted (Springer Nature)** |
 | **AI Fairness** | Fairness-aware representation learning for ECG-based disease prediction (wearable systems) | **Accepted (MobiHealth 2026)** |
 | **Explainable AI** | Hybrid Fuzzy-XGBoost with clinician validation for maternal health risk prediction | **Accepted (ICAIHE 2026)** |
 | **Fairness in Aid** | Fairness-aware AI framework for prioritizing post-flood aid | **Accepted (CCAI 2026)** |
@@ -43,6 +44,9 @@ I'm a dedicated researcher and data scientist specializing in **Trustworthy AI**
 ---
 
 ### 📚 Recent Publications
+
+**Forthcoming Book Chapter:**
+- **Yesmin, F.** (2026). "Clinician-in-the-Loop Agentic Systems for Maternal Healthcare in Low-Resource Settings." To appear in: *Sustainable Agentic AI: Building Autonomous Systems for Social Good* (Eds. M. Mehrotra et al.), **Springer Nature**.
 
 **Accepted Papers (Forthcoming):**
 - **Yesmin, F.** , Shirmin, N. (2026). "Fairness-Aware Representation Learning for ECG-Based Disease Prediction in Wearable Systems." *Accepted at 13th EAI MobiHealth 2026, Crete, Greece. Springer/EAI proceedings.*
