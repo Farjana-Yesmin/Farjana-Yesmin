@@ -2,10 +2,10 @@
 
 ## Researcher | Machine Learning Specialist | Trustworthy AI for Healthcare
 
-[![Website](https://img.shields.io/badge/Website-Portfolio-green)](https://farjana-yesmin.github.io)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/farjana-yesmin/)
-[![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:farjanayesmin76@gmail.com)
-[![Google Scholar](https://img.shields.io/badge/Google_Scholar-Profile-lightgrey)](https://scholar.google.com/citations?user=AKL9avYAAAAJ&hl=en)
+[![Website](https://img.shields.io/badge/Website-Portfolio-green?logo=googlechrome)](https://farjana-yesmin.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/farjana-yesmin/)
+[![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:farjanayesmin76@gmail.com)
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-Profile-lightgrey?logo=googlescholar)](https://scholar.google.com/citations?user=AKL9avYAAAAJ&hl=en)
 [![GitHub](https://img.shields.io/badge/GitHub-Repositories-lightgrey?logo=github)](https://github.com/Farjana-Yesmin?tab=repositories)
 
 ---
