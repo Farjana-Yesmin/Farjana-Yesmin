@@ -14,6 +14,9 @@ I build **fair, explainable, and privacy-preserving AI systems** for healthcare,
 
 **Research areas:** Privacy-Preserving Federated Learning · Fairness-Aware ML · Explainable AI · Neuro-Symbolic AI · Healthcare Applications
 
+
+**HuggingFace:** [fairhealth org](https://huggingface.co/fairhealth) — 3 Bangladesh healthcare datasets with DOIs
+
 ---
 
 ### Recent Work
@@ -26,6 +29,8 @@ I build **fair, explainable, and privacy-preserving AI systems** for healthcare,
 | Clinician-in-the-Loop Agentic Systems for Maternal Healthcare | Springer Nature Book Chapter | Accepted |
 | MedHE: Privacy-Preserving Federated Learning for Healthcare | CIBB 2026 | Under Review |
 | ALGFF: Attention-LSTM for Crisis Economics Forecasting | IEEE ICDM 2026 | Under Review |
+| When Symbolic Rules Cannot Find Their Own Triggers (neuro-symbolic negative result) | EIML@ICML 2026 Workshop | Under Review |
+| Optimized Hybrid ML for Real-Time Air Quality Prediction in IoT Smart Cities | DASGRI 2026 (Springer LNNS) | Accepted |
 
 Full publication list at [farjana-yesmin.github.io](https://farjana-yesmin.github.io#publications)
 
