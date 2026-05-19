@@ -23,13 +23,13 @@ I build **fair, explainable, and privacy-preserving AI systems** for healthcare,
 
 | Paper | Venue | Status |
 |-------|-------|--------|
+| When Symbolic Rules Cannot Find Their Own Triggers (neuro-symbolic negative result) | EIML@ICML 2026 Workshop | Accepted |
 | Fairness-Aware ECG Disease Prediction in Wearable Systems | MobiHealth 2026 (EAI) | Accepted |
 | Explainable AI for Maternal Health Risk — Hybrid Fuzzy-XGBoost | ICAIHE 2026, Tokyo | Accepted |
 | Fairness-Aware AI for Post-Flood Aid Allocation | CCAI 2026 (IEEE) | Accepted |
 | Clinician-in-the-Loop Agentic Systems for Maternal Healthcare | Springer Nature Book Chapter | Accepted |
 | MedHE: Privacy-Preserving Federated Learning for Healthcare | CIBB 2026 | Under Review |
 | ALGFF: Attention-LSTM for Crisis Economics Forecasting | IEEE ICDM 2026 | Under Review |
-| When Symbolic Rules Cannot Find Their Own Triggers (neuro-symbolic negative result) | EIML@ICML 2026 Workshop | Under Review |
 | Optimized Hybrid ML for Real-Time Air Quality Prediction in IoT Smart Cities | DASGRI 2026 (Springer LNNS) | Accepted |
 
 Full publication list at [farjana-yesmin.github.io](https://farjana-yesmin.github.io#publications)
