@@ -14,7 +14,6 @@ I build **fair, explainable, and privacy-preserving AI systems** for healthcare,
 
 **Research areas:** Privacy-Preserving Federated Learning · Fairness-Aware ML · Explainable AI · Neuro-Symbolic AI · Healthcare Applications
 
-
 **HuggingFace:** [fairhealth org](https://huggingface.co/fairhealth) — 3 Bangladesh healthcare datasets with DOIs
 
 ---
@@ -23,14 +22,18 @@ I build **fair, explainable, and privacy-preserving AI systems** for healthcare,
 
 | Paper | Venue | Status |
 |-------|-------|--------|
+| MedHE: Communication-Efficient Privacy-Preserving Federated Learning for Healthcare Text Classification | CIBB 2026 | **Accepted (Oral)** |
+| Beyond the Black Box: Claim-Level Interpretability for Accountable Retrieval-Augmented Generation | ECAF 2026 | **Accepted** |
 | When Symbolic Rules Cannot Find Their Own Triggers (neuro-symbolic negative result) | EIML@ICML 2026 Workshop | Accepted |
 | Fairness-Aware ECG Disease Prediction in Wearable Systems | MobiHealth 2026 (EAI) | Accepted |
 | Explainable AI for Maternal Health Risk — Hybrid Fuzzy-XGBoost | ICAIHE 2026, Tokyo | Accepted |
 | Fairness-Aware AI for Post-Flood Aid Allocation | CCAI 2026 (IEEE) | Accepted |
 | Clinician-in-the-Loop Agentic Systems for Maternal Healthcare | Springer Nature Book Chapter | Accepted |
-| MedHE: Privacy-Preserving Federated Learning for Healthcare | CIBB 2026 | Under Review |
-| ALGFF: Attention-LSTM for Crisis Economics Forecasting | IEEE ICDM 2026 | Under Review |
 | Optimized Hybrid ML for Real-Time Air Quality Prediction in IoT Smart Cities | DASGRI 2026 (Springer LNNS) | Accepted |
+| Constraint-Aware Neuro-Symbolic Learning under Structural and Domain Knowledge | NeSy 2026 | Under Review |
+| Intersectional Bias in Image Classification: Diagnostic Explainability for Fairness Analysis | SIMBig 2026 | Under Review |
+| Equity by Design: Fairness-Aware Explainable AI for Maternal Health Risk Assessment in Low-Resource Bangladesh | SIMBig 2026 | Under Review |
+| ALGFF: Attention-LSTM for Crisis Economics Forecasting | IEEE ICDM 2026 | Under Review |
 
 Full publication list at [farjana-yesmin.github.io](https://farjana-yesmin.github.io#publications)
 
@@ -58,4 +61,4 @@ ACM Certified Reviewer (HEALTH · TIST · ACMJRC · TOMM) · PC Member ACL 2026 
 
 ---
 
-*Open to research collaborations and researcher/job/scieentist opportunities in Trustworthy AI, healthcare ML, and responsible AI systems.*
+*Open to research collaborations and researcher/job/scientist opportunities in Trustworthy AI, healthcare ML, and responsible AI systems.*
