@@ -31,8 +31,8 @@ I build **fair, explainable, and privacy-preserving AI systems** for healthcare,
 | Clinician-in-the-Loop Agentic Systems for Maternal Healthcare | Springer Nature Book Chapter | Accepted |
 | Optimized Hybrid ML for Real-Time Air Quality Prediction in IoT Smart Cities | DASGRI 2026 (Springer LNNS) | Accepted |
 | Constraint-Aware Neuro-Symbolic Learning under Structural and Domain Knowledge | NeSy 2026 | Under Review |
-| Intersectional Bias in Image Classification: Diagnostic Explainability for Fairness Analysis | SIMBig 2026 | Under Review |
-| Equity by Design: Fairness-Aware Explainable AI for Maternal Health Risk Assessment in Low-Resource Bangladesh | SIMBig 2026 | Under Review |
+| Diagnosing and Mitigating Compound Class-Environment Bias in Image Classification: A Bias-Weighted Augmentation Framework | SIMBig 2026 | Accepted |
+| Joint Denoising and 3D Point Cloud Reconstruction from Single CT Images via Shared U-Net Representations | SIMBig 2026 | Accepted |
 | ALGFF: Attention-LSTM for Crisis Economics Forecasting | IEEE ICDM 2026 | Under Review |
 
 Full publication list at [farjana-yesmin.github.io](https://farjana-yesmin.github.io#publications)
