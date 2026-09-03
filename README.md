@@ -33,7 +33,7 @@ I build **fair, explainable, and privacy-preserving AI systems** for healthcare,
 | Constraint-Aware Neuro-Symbolic Learning under Structural and Domain Knowledge | NeSy 2026 | Under Review |
 | Diagnosing and Mitigating Compound Class-Environment Bias in Image Classification: A Bias-Weighted Augmentation Framework | SIMBig 2026 | Accepted |
 | Joint Denoising and 3D Point Cloud Reconstruction from Single CT Images via Shared U-Net Representations | SIMBig 2026 | Accepted |
-| ALGFF: Attention-LSTM for Crisis Economics Forecasting | IEEE ICDM 2026 | Under Review |
+| Geopolitical Crisis Economics Forecasting in the Small-Data Regime: A Comparative Study with the Russia-Ukraine War Dataset | ADC 2026 | Under Review |
 
 Full publication list at [farjana-yesmin.github.io](https://farjana-yesmin.github.io#publications)
 
